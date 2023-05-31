@@ -1,0 +1,12 @@
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\ApiACME.exe
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\appsettings.Development.json
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\appsettings.json
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\ApiACME.dll
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\ApiACME.deps.json
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\ApiACME.runtimeconfig.json
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\ApiACME.pdb
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\Microsoft.OpenApi.dll
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\Newtonsoft.Json.dll
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juand\Downloads\Prueba Técnica - Desarrollador 02\PruebaTecnicaSeti\ApiACME\out\Swashbuckle.AspNetCore.SwaggerUI.dll

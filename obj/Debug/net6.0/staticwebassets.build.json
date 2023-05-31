@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KCqZYrsPp3kuOSrbFVpuKd0X4xPJ/sy8+X5NdRr5sis=",
+  "Source": "ApiACME",
+  "BasePath": "_content/ApiACME",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
